@@ -1,1 +1,1 @@
-g++ -o game.exe src/main.cpp
+g++ -std=c++17 src/main.cpp -I"SDL2-2.30.3\x86_64-w64-mingw32\include" -L"SDL2-2.30.3\x86_64-w64-mingw32\lib" -lmingw32 -lSDL2main -lSDL2  -o game.exe -static-libstdc++
