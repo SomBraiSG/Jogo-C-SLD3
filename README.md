@@ -1,5 +1,5 @@
 # Jogo-C-SLD3
-
+#escreveu 
 Requerimentos: Compilador mingw https://github.com/niXman/mingw-builds-binaries/releases/download/13.2.0-rt_v11-rev1/x86_64-13.2.0-release-posix-seh-msvcrt-rt_v11-rev1.7z
 
 
